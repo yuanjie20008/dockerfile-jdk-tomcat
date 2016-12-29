@@ -1,5 +1,5 @@
 # Pull base image  
-FROM ubuntu:13.10  
+FROM ubuntu
   
 MAINTAINER zing wang "zing.jian.wang@gmail.com"  
   
